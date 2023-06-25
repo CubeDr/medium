@@ -1,4 +1,4 @@
-package streamloop.comare;
+package streamloop.compare;
 
 import streamloop.Item;
 

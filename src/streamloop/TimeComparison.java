@@ -1,8 +1,8 @@
 package streamloop;
 
-import streamloop.comare.CompareUnit;
-import streamloop.comare.CountItemsCompareUnit;
-import streamloop.comare.IndependentLongTaskCompareUnit;
+import streamloop.compare.CompareUnit;
+import streamloop.compare.CountItemsCompareUnit;
+import streamloop.compare.IndependentLongTaskCompareUnit;
 
 import java.util.List;
 import java.util.stream.Stream;
